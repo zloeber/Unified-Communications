@@ -5,3 +5,5 @@
 **Voice-Upgrade-Workbook.xlsx** - A general purpose workbook for tracking multiple sites. 
 
 **Deployment Phases.vsdx** - A multiple sheet visio diagram simplifying the stages of a Skype for Business enterprise voice deployment.
+
+**Site-Walkthrough-Checklist.xlsx** - A general list of items to look for when performing an on site review of the current telephony environment.
